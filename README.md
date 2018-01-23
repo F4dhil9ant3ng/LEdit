@@ -63,3 +63,7 @@ Finally, LEdit automatically backs up your data so if there's a problem, and you
   -> RunLogin <Username> <Password>
    -> EXAMPLE: RunLogin Test_Account MyAwesomeProtectivePassword!x1x!1x!
  Now any actions you need to perform, you just minimize the app and you do them within the folder that was chosen in My Documents
+ 
+<h3>Sponsored By</h3>
+ThisHosting.Rocks - https://thishosting.rocks
+IceLine Hosting - https://iceline-hosting.com
