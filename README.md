@@ -1,4 +1,4 @@
-<h1>LEdit (VA)<h1>
+<h1>LEdit (ALPHA)<h1>
 
 <hr />
 <h3>Version Information: VA 1.1 | S2</h3>
